@@ -1,2 +1,3 @@
 # MyNewRepo2
-Practising!!
+Practise2 (squash)
+commit1
