@@ -1,2 +1,5 @@
 # MyNewRepo2
-Practising in fork!
+ Branch2
+Practise2 (squash)
+commit2
+
